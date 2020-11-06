@@ -8,12 +8,12 @@ Users can upload their own images and watch as facey tries to determine who your
 
 ## Prerequisites
 
-1. [python3](https://www.python.org/)
+* [python3](https://www.python.org/)
 
-2. [face_recognition](https://github.com/ageitgey/face_recognition)
-```python
-pip3 install face_recognition
-```
+* [face_recognition](https://github.com/ageitgey/face_recognition)
+    ```python
+    pip3 install face_recognition
+    ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
